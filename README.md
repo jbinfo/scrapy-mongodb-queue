@@ -43,3 +43,7 @@ Author
 ------
 
 This project is maintained by Lhassan Baazzi ([GitHub](https://github.com/jbinfo) | [Twitter](https://twitter.com/baazzilhassan) | [LinkedIn](https://ma.linkedin.com/pub/lhassan-baazzi/49/606/a70))
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jbinfo/scrapy-mongodb-queue/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
