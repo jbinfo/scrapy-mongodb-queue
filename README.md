@@ -8,23 +8,24 @@ MongoDB-based components for scrapy that allows distributed crawling
 Installation
 ------------
 
-From `pypi`::
-
+From `pypi`
+```shell
   $ pip install scrapy-mongodb-queue
+```
 
-From `github`::
-
+From `github`
+```shell
   $ git clone https://github.com/jbinfo/scrapy-mongodb-queue.git
   $ cd scrapy-mongodb-queue
   $ python setup.py install
+```
 
 Usage
 -----
 
 Enable the components in your `settings.py`:
 
-.. code-block:: python
-
+```python
   # Enables scheduling storing requests queue in redis.
   SCHEDULER = "scrapy_mongodb_queue.scheduler.Scheduler"
 
@@ -38,6 +39,7 @@ Enable the components in your `settings.py`:
 
   # MongoDB collection name
   MONGODB_QUEUE_NAME = "my_queue"
+```
 
 Author
 ------
