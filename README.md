@@ -10,7 +10,7 @@ Installation
 
 From `pypi`
 ```shell
-  $ pip install scrapy-mongodb-queue
+  $ pip install git+https://github.com/jbinfo/scrapy-mongodb-queue
 ```
 
 From `github`
