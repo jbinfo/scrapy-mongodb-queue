@@ -1,7 +1,9 @@
 # Scrapy MongoDB Queue
 MongoDB-based components for scrapy that allows distributed crawling
 
-# Available Scrapy components:
+Available Scrapy components
+---------------------------
+
 * Scheduler
 * Duplication Filter
 
